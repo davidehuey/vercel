@@ -136,10 +136,10 @@ postcss@^8.3.5:
     nanoid "^3.1.23"
     source-map-js "^0.6.2"
 
-prettier-plugin-svelte@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.3.1.tgz#926184a490549688dbea0a8d61c1b1ae20218368"
-  integrity sha512-F1/r6OYoBq8Zgurhs1MN25tdrhPw0JW5JjioPRqpxbYdmrZ3gY/DzHGs0B6zwd4DLyRsfGB2gqhxUCbHt/D1fw==
+prettier-plugin-svelte@^2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.9.0.tgz#16cc7fa73fa96eaef48b44089753ac9f1f1175e5"
+  integrity sha512-3doBi5NO4IVgaNPtwewvrgPpqAcvNv0NwJNflr76PIGgi9nf1oguQV1Hpdm9TI2ALIQVn/9iIwLpBO5UcD2Jiw==
 
 prettier@^2.3.2:
   version "2.3.2"
