@@ -2,7 +2,7 @@
   "name": "with-zones-blog",
   "version": "1.0.0",
   "dependencies": {
-    "next": "latest",
+    "next": "10.0.7",
     "react": "latest",
     "react-dom": "latest"
   },
