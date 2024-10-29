@@ -36,7 +36,7 @@
     "@vercel/nft": "0.14.0",
     "@vercel/node-bridge": "2.1.1-canary.1",
     "content-type": "1.0.4",
-    "cookie": "0.4.0",
+    "cookie": "0.7.0",
     "etag": "1.8.1",
     "mkdirp-promise": "5.0.1",
     "node-fetch": "2.6.1",
