@@ -8,4 +8,4 @@ gem "cowsay", "~> 0.3.0"
 
 gem "sinatra", "~> 2.0"
 
-gem "rack", "~> 2.0"
+gem "rack", "~> 2.2", ">= 2.2.11"
