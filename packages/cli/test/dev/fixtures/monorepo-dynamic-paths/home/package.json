@@ -2,7 +2,7 @@
   "name": "with-zones-home",
   "version": "1.0.0",
   "dependencies": {
-    "next": "latest",
+    "next": "10.0.6",
     "react": "latest",
     "react-dom": "latest"
   },
